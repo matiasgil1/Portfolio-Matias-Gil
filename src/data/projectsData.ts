@@ -53,7 +53,7 @@ export const projectsData: Project[] = [
       backend: ['Edge Routing Optimization', 'Asset Compression'],
       integrations: ['Ecosistema Unificado de Servicios', 'Auditoría Centralizada']
     },
-    url: 'https://liquidacion-medicos-arevalo.vercel.app/', // Base URL, will show ecosystem details inside card
+    url: 'https://home-auditoria-arevalo.vercel.app/', // Base URL, will show ecosystem details inside card
     ecosystem: [
       {
         name: 'Cartilla Médica Interactiva',
